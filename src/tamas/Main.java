@@ -25,9 +25,20 @@ public class Main {
                 "APULLUM Alba Iulia DA04-05", "DINAMO Bucuresti DA04-05", "UNIVERSITATEA Craiova DA04-05", "ARGES Pitesti DA04-05", "FARUL Constanta DA04-05",
                 "SPORTUL STUDENTESC Bucuresti DA04-05", "POLITEHNICA Iasi DA04-05", "STEAUA Bucuresti DA04-05", "OTELUL Galati DA04-05", "NATIONAL Bucuresti DA04-05",
                 "FCM Bacau DA04-05", "FC Brasov DA04-05"};
+        String EchipeDiviziaA2005_2006[] = {"SPORTUL STUDENTESC Bucuresti DA05-06", "JIUL Petrosani DA05-06", "Vaslui DA05-06", "ARGES Pitesti DA05-06",
+                "NATIONAL Bucuresti DA05-06", "POLITEHNICA Timisoara DA05-06", "OTELUL Galati DA05-06", "PANDURII LIGNITUL Targu Jiu DA05-06", "DINAMO Bucuresti DA05-06",
+                "POLITEHNICA Iasi DA05-06", "FCM Bacau DA05-06", "STEAUA Bucuresti DA05-06", "RAPID Bucuresti DA05-06", "GLORIA Bistrita DA05-06", "FARUL Constanta DA05-06"};
+        String EchipeLigaI2006_2007[] = {"OTELUL Galati LI06-07", "UNIREA Urziceni LI06-07", "CEAHLAUL Piatra Neamt LI06-07", "PANDURII LIGNITUL Targu Jiu LI06-07",
+                "JIUL Petrosani LI06-07", "POLITEHNICA Timisoara LI06-07", "UNIVERSITATEA Craiova LI06-07", "UTA Arad LI06-07", "Vaslui LI06-07", "STEAUA Bucuresti LI06-07",
+                "ARGES Pitesti LI06-07", "RAPID Bucuresti LI06-07", "DINAMO Bucuresti LI06-07", "GLORIA Bistrita LI06-07", "POLITEHNICA Iasi LI06-07", "FARUL Constanta LI06-07"};
+
+
         String EchipeUefaIntertotoCup2005[] = {"VETRA Vilnius IC05", "ATHLETIC Bilbao IC05", "SAINT-ETIENNE IC05",
                 "ZALGIRIS Vilnius IC05", "RC Lens IC05"};
+
         String EchipeCupaRomaniei2004_2005[] = {"PANDURII LIGNITUL Targu Jiu CR04-05", "FARUL Constanta CR04-05"};
+        String EchipeCupaRomaniei2005_2006[] = {"UNIVERSITATEA Craiova CR05-06"};
+        String EchipeCupaRomaniei2006_2007[] = {"SOMESUL Satu Mare CR06-07", "POLITEHNICA Timisoara CR06-07"};
 
         for (int i = 0; i < EditiileDeFotbal.length; i++) {
             System.out.println(EditiileDeFotbal[i]);
@@ -44,6 +55,46 @@ public class Main {
                 System.out.println(CompetitiiEditia2004_2005[i]);
             }
         }
+        if (editia.equals(EditiileDeFotbal[1])) {
+            for (int i = 0; i < CompetitiiEditia2005_2006.length; i++) {
+                System.out.println(CompetitiiEditia2005_2006[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[2])) {
+            for (int i = 0; i < CompetitiiEditia2006_2007.length; i++) {
+                System.out.println(CompetitiiEditia2006_2007[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[3])) {
+            for (int i = 0; i < CompetitiiEditia2007_2008.length; i++) {
+                System.out.println(CompetitiiEditia2007_2008[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[4])) {
+            for (int i = 0; i < CompetitiiEditia2008_2009.length; i++) {
+                System.out.println(CompetitiiEditia2008_2009[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[5])) {
+            for (int i = 0; i < CompetitiiEditia2009_2010.length; i++) {
+                System.out.println(CompetitiiEditia2009_2010[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[6])) {
+            for (int i = 0; i < CompetitiiEditia2010_2011.length; i++) {
+                System.out.println(CompetitiiEditia2010_2011[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[7])) {
+            for (int i = 0; i < CompetitiiEditia2011_2012.length; i++) {
+                System.out.println(CompetitiiEditia2011_2012[i]);
+            }
+        }
+
+
+
+
+
 
         String competitia = inputObject.nextLine();
 
@@ -64,6 +115,36 @@ public class Main {
                 System.out.println(EchipeUefaIntertotoCup2005[i]);
             }
         }
+
+
+        if (competitia.equals(CompetitiiEditia2005_2006[0])) {
+            for (int i = 0; i < EchipeDiviziaA2005_2006.length; i++) {
+                System.out.println(EchipeDiviziaA2005_2006[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2005_2006[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2005_2006.length; i++) {
+                System.out.println(EchipeCupaRomaniei2005_2006[i]);
+            }
+        }
+
+
+        if (competitia.equals(CompetitiiEditia2006_2007[0])) {
+            for (int i = 0; i < EchipeLigaI2006_2007.length; i++) {
+                System.out.println(EchipeLigaI2006_2007[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2006_2007[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2006_2007.length; i++) {
+                System.out.println(EchipeCupaRomaniei2006_2007[i]);
+            }
+        }
+
+
+
+
+
+
 
         System.out.println("Introduce echipa aleasa !");
 
@@ -509,6 +590,26 @@ public class Main {
                         System.out.println(citesteDin);
                     }
                     if (numaratorUnu == 47) {
+                        System.out.println(citesteDin);
+                    }
+                }
+                citire.close();
+            } catch (Exception ex) {
+                return;
+            }
+        }
+        if (echipaAleasa.equals(EchipeDiviziaA2005_2006[0])) {
+            try {
+                int numaratorUnu = 0;
+                BufferedReader citire = new BufferedReader(
+                        new FileReader("C:\\Users\\simo\\Desktop\\CFRPROIECTCODE\\BazaDateRezultateCFR.txt"));
+                String citesteDin;
+                while ((citesteDin = citire.readLine()) != null) {
+                    numaratorUnu++;
+                    if (numaratorUnu == 48) {
+                        System.out.println(citesteDin);
+                    }
+                    if (numaratorUnu == 49) {
                         System.out.println(citesteDin);
                     }
                 }

@@ -32,7 +32,7 @@ Turul VIII : FC CFR-ECOMAX Cluj-Napoca 1-0 CS PANDURII LIGNITUL Targu Jiu (DIVIZ
 OPTIMI : FC CFR-ECOMAX Cluj-Napoca 1-2 FC FARUL Constanta
 Turul I TUR : FC CFR-ECOMAX Cluj-Napoca 3-2 FK VETRA Vilnius (LTU)
 Turul I RETUR : FK VETRA Vilnius (LTU) 1-4 FC CFR-ECOMAX Cluj-Napoca
-Scor general 7-3 FC CFR-ECOMAX Cluj-Napoca !
+ Scor general 7-3 FC CFR-ECOMAX Cluj-Napoca !
 Turul II TUR : FC CFR-ECOMAX Cluj-Napoca 1-0 ATHLETIC CLUB Bilbao (SPA)
 Turul II RETUR : ATHLETIC CLUB Bilbao (SPA) 1-0 FC CFR-ECOMAX Cluj-Napoca
 Scor general 1-1 dupa penalty 5-3 FC CFR-ECOMAX Cluj-Napoca !
@@ -45,3 +45,145 @@ Scor general 7-2 FC CFR-ECOMAX Cluj-Napoca !
 FINALA TUR : FC CFR-ECOMAX Cluj-Napoca 1-1 RC Lens (FRA)
 FINALA RETUR : RC Lens (FRA) 3-1 FC CFR-ECOMAX Cluj-Napoca
 Scor general 4-2 RC Lens (FRA) !
+Etapa 1 TUR : FC SPORTUL STUDENTESC Bucuresti 1-1 FC CFR-ECOMAX Cluj-Napoca
+Etapa 16 RETUR : FC CFR-ECOMAX Cluj-Napoca 0-0 FC SPORTUL STUDENTESC Bucuresti
+Etapa 2 TUR : FC CFR-ECOMAX Cluj-Napoca 0-0 CS JIUL Petrosani
+Etapa 17 RETUR : CS JIUL Petrosani 5-1 FC CFR-ECOMAX Cluj-Napoca
+Etapa 3 TUR : FC Vaslui 0-3 FC CFR-ECOMAX Cluj-Napoca
+Etapa 18 RETUR : FC CFR-ECOMAX Cluj-Napoca 1-0 FC Vaslui
+Etapa 4 TUR : FC CFR-ECOMAX Cluj-Napoca 2-2 FC ARGES Pitesti
+Etapa 19 RETUR : FC ARGES Pitesti 0-1 FC CFR-ECOMAX Cluj-Napoca
+Etapa 5 TUR : FC NATIONAL Bucuresti 0-4 FC CFR-ECOMAX Cluj-Napoca
+Etapa 20 RETUR : FC CFR-ECOMAX Cluj-Napoca 0-0 FC NATIONAL Bucuresti
+Etapa 6 TUR : FC CFR-ECOMAX Cluj-Napoca 2-0 FCU POLITEHNICA Timisoara
+Etapa 21 RETUR : FCU POLITEHNICA Timisoara 2-2 FC CFR-ECOMAX Cluj-Napoca
+Etapa 7 TUR : FC OTELUL Galati 0-1 FC CFR-ECOMAX Cluj-Napoca
+Etapa 22 RETUR : FC CFR-ECOMAX Cluj-Napoca 0-1 FC OTELUL Galati
+Etapa 8 TUR : FC CFR-ECOMAX Cluj-Napoca 1-2 CS PANDURII LIGNITUL Targu Jiu
+Etapa 23 RETUR : CS PANDURII LIGNITUL Targu Jiu 0-1 FC CFR-ECOMAX Cluj-Napoca
+Etapa 9 TUR : FC DINAMO 1948 Bucuresti 5-0 FC CFR-ECOMAX Cluj-Napoca
+Etapa 24 RETUR : FC CFR-ECOMAX Cluj-Napoca 1-0 FC DINAMO 1948 Bucuresti
+Etapa 10 TUR : FC CFR-ECOMAX Cluj-Napoca 0-0 FC POLITEHNICA Iasi
+Etapa 25 RETUR : FC POLITEHNICA Iasi 1-0 FC CFR-ECOMAX Cluj-Napoca
+Etapa 11 TUR : FCM Bacau 0-2 FC CFR-ECOMAX Cluj-Napoca
+Etapa 26 RETUR : FC CFR-ECOMAX Cluj-Napoca 4-0 FCM Bacau
+Etapa 12 TUR : FC CFR-ECOMAX Cluj-Napoca 1-0 FC STEAUA Bucuresti
+Etapa 27 RETUR : FC STEAUA Bucuresti 2-0 FC CFR-ECOMAX Cluj-Napoca
+Etapa 13 TUR : FC RAPID Bucuresti 1-0 FC CFR-ECOMAX Cluj-Napoca
+Etapa 28 RETUR : FC CFR-ECOMAX Cluj-Napoca 1-3 FC RAPID Bucuresti
+Etapa 14 TUR : FC CFR-ECOMAX Cluj-Napoca 0-0 ACF GLORIA 1922 Bistrita
+Etapa 29 RETUR : ACF GLORIA 1922 Bistrita 1-2 FC CFR-ECOMAX Cluj-Napoca
+Etapa 15 TUR : FC FARUL Constanta 1-2 FC CFR-ECOMAX Cluj-Napoca
+Etapa 30 RETUR : FC CFR-ECOMAX Cluj-Napoca 3-0 FC FARUL Constanta
+TURUL VII : FC UNIVERSIATEA Craiova (DIVIZIA B) 1-0 FC CFR-ECOMAX Cluj-Napoca
+Etapa 1 TUR : FC OTELUL Galati 1-3 FC CFR-1907 Cluj-Napoca
+Etapa 18 RETUR : FC CFR-1907 Cluj-Napoca 2-1 FC OTELUL Galati
+Etapa 2 TUR : FC CFR-1907 Cluj-Napoca 4-0 FC UNIREA Urziceni
+Etapa 19 RETUR : FC UNIREA Urziceni 0-0 FC CFR-1907 Cluj-Napoca
+Etapa 3 TUR : FC CEAHLAUL Piatra-Neamt 1-3 FC CFR-1907 Cluj-Napoca
+Etapa 20 RETUR : FC CFR-1907 Cluj-Napoca 1-1 FC CEAHLAUL Piatra-Neamt
+Etapa 4 TUR : FC CFR-1907 Cluj-Napoca 1-0 FC NATIONAL Bucuresti
+Etapa 21 RETUR : FC NATIONAL Bucuresti 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 5 TUR : CS PANDURII LIGNITUL Targu Jiu 1-3 FC CFR-1907 Cluj-Napoca
+Etapa 22 RETUR : FC CFR-1907 Cluj-Napoca 1-0 CS PANDURII LIGNITUL Targu Jiu
+Etapa 6 TUR : FC CFR-1907 Cluj-Napoca 1-1 CS JIUL Petrosani
+Etapa 23 RETUR : CS JIUL Petrosani 0-2 FC CFR-1907 Cluj-Napoca
+Etapa 7 TUR : FCU POLITEHNICA Timisoara 3-1 FC CFR-1907 Cluj-Napoca
+Etapa 24 RETUR : FC CFR-1907 Cluj-Napoca 2-1 FCU POLITEHNICA Timisoara
+Etapa 8 TUR : FC CFR-1907 Cluj-Napoca 5-1 FC UNIVERSITATEA Craiova
+Etapa 25 RETUR : FC UNIVERSITATEA Craiova 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 9 TUR : FC UTA Arad 1-0 FC CFR-1907 Cluj-Napoca
+Etapa 26 RETUR : FC CFR-1907 Cluj-Napoca 5-0 FC UTA Arad
+Etapa 10 TUR : FC CFR-1907 Cluj-Napoca 2-2 FC Vaslui
+Etapa 27 RETUR : FC Vaslui 0-0 FC CFR-1907 Cluj-Napoca
+Etapa 11 TUR : FC STEAUA Bucuresti 4-2 FC CFR-1907 Cluj-Napoca
+Etapa 28 RETUR : FC CFR-1907 Cluj-Napoca 1-2 FC STEAUA Bucuresti
+Etapa 12 TUR : FC CFR-1907 Cluj-Napoca 2-0 FC ARGES Pitesti
+Etapa 29 RETUR : FC ARGES Pitesti 0-0 FC CFR-1907 Cluj-Napoca
+Etapa 13 TUR : FC RAPID Bucuresti 3-1 FC CFR-1907 Cluj-Napoca
+Etapa 30 RETUR : FC CFR-1907 Cluj-Napoca 3-2 FC RAPID Bucuresti
+Etapa 14 TUR : FC CFR-1907 Cluj-Napoca 2-1 FC DINAMO 1948 Bucuresti
+Etapa 31 RETUR : FC DINAMO 1948 Bucuresti 1-0 FC CFR-1907 Cluj-Napoca
+Etapa 15 TUR : ACF GLORIA 1922 Bistrita 3-2 FC CFR-1907 Cluj-Napoca
+Etapa 32 RETUR : FC CFR-1907 Cluj-Napoca 2-1 ACF GLORIA 1922 Bistrita
+Etapa 16 TUR : FC CFR-1907 Cluj-Napoca 2-1 FC POLITEHNICA Iasi
+Etapa 33 RETUR : FC POLITEHNICA Iasi 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 17 TUR : FC FARUL Constanta 0-2 FC CFR-1907 Cluj-Napoca
+Etapa 34 RETUR : FC CFR-1907 Cluj-Napoca 1-0 FC FARUL Constanta
+SAISPREZECIMI : FC CFR-1907 Cluj-Napoca 4-0 FC SOMESUL Satu Mare (LIGA III)
+OPTIMI : FC CFR-1907 Cluj-Napoca 0-2 FCU POLITEHNICA TimisoaraEtapa 1 TUR : FC OTELUL Galati 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 18 RETUR : FC CFR-1907 Cluj-Napoca 3-1 FC OTELUL Galati
+Etapa 2 TUR : FC CFR-1907 Cluj-Napoca 2-2 FC POLITEHNICA 1921 STIINTA Timisoara
+Etapa 19 RETUR : FC POLITEHNICA 1921 STIINTA Timisoara 1-0 FC CFR-1907 Cluj-Napoca
+Etapa 3 TUR : FC UNIVERSITATEA Craiova 1-3 FC CFR-1907 Cluj-Napoca
+Etapa 20 RETUR : FC CFR-1907 Cluj-Napoca 4-1 FC UNIVERSITATEA Craiova
+Etapa 4 TUR : FC CFR-1907 Cluj-Napoca 0-0 FC STEAUA Bucuresti
+Etapa 21 RETUR : FC STEAUA Bucuresti 3-1 FC CFR-1907 Cluj-Napoca
+Etapa 5 TUR : FC GLORIA Buzau 1-2 FC CFR-1907 Cluj-Napoca
+Etapa 22 RETUR : FC CFR-1907 Cluj-Napoca 2-0 FC GLORIA Buzau
+Etapa 6 TUR : FC CFR-1907 Cluj-Napoca 2-1 FC CEAHLAUL Piatra Neamt
+Etapa 23 RETUR : FC CEAHLAUL Piatra Neamt 0-0 FC CFR-1907 Cluj-Napoca
+Etapa 7 TUR : FC FARUL Constanta 0-2 FC CFR-1907 Cluj-Napoca
+Etapa 24 RETUR : FC CFR-1907 Cluj-Napoca 2-1 FC FARUL Constanta
+Etapa 8 TUR : FC CFR-1907 Cluj-Napoca 2-1 FC POLITEHNICA Iasi
+Etapa 25 RETUR : FC POLITEHNICA Iasi 1-0 FC CFR-1907 Cluj-Napoca
+Etapa 9 TUR : FC CFR-1907 Cluj-Napoca 1-1 FC DINAMO 1948 Bucuresti
+Etapa 26 RETUR : FC DINAMO 1948 Bucuresti 1-2 FC CFR-1907 Cluj-Napoca
+Etapa 10 TUR : CS PANDURII LIGNITUL Targu Jiu 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 27 RETUR : FC CFR-1907 Cluj-Napoca 1-2 CS PANDURII LIGNITUL Targu Jiu
+Etapa 11 TUR : FC CFR-1907 Cluj-Napoca 2-0 FC UNIREA Urziceni
+Etapa 28 RETUR : FC UNIREA Urziceni 1-1 FC CFR-1907 Cluj-Napoca
+Etapa 12 TUR : FC RAPID Bucuresti 1-2 FC CFR-1907 Cluj-NAPOCA
+Etapa 29 RETUR : FC CFR-1907 Cluj-Napoca 1-0 FC RAPID Bucuresti
+Etapa 13 TUR : FC CFR-1907 Cluj-Napoca 2-0 FC UTA Arad
+Etapa 30 RETUR : FC UTA Arad 0-3 FC CFR-1907 Cluj-Napoca
+Etapa 14 TUR : FC Vaslui 0-2 FC CFR-1907 Cluj-Napoca
+Etapa 31 RETUR : FC CFR-1907 Cluj-Napoca 1-0 FC Vaslui
+Etapa 15 TUR : FC CFR-1907 Cluj-Napoca 1-0 CS DACIA Mioveni
+Etapa 32 RETUR : CS DACIA Mioveni 0-0 FC CFR-1907 Cluj-Napoca
+Etapa 16 TUR : ACF GLORIA 1922 Bistrita 2-2 FC CFR-1907 Cluj-Napoca
+Etapa 33 RETUR : FC CFR-1907 Cluj-Napoca 1-0 ACF GLORIA 1922 Bistrita
+Etapa 17 TUR : FC CFR-1907 Cluj-Napoca 2-0 CMF UNIVERSITATEA Cluj
+Etapa 34 RETUR : CMF UNIVERSITATEA Cluj 0-1 FC CFR-1907 Cluj-Napoca
+SAISPREZECIMI : FC Sacele (LIGA II) 0-3 FC CFR-1907 Cluj-Napoca
+OPTIMI : CS JIUL Petrosani (LIGA II) 0-1 FC CFR-1907 Cluj-Napoca
+SFERTURI : FC CFR-1907 Cluj-Napoca 1-0 FC Brasov (LIGA II)
+SEMIFINALE : FC CFR-1907 Cluj-Napoca 3-0 CS DACIA Mioveni
+FINALA : FC CFR-1907 Cluj-Napoca 2-1 FC UNIREA Urziceni
+TURUL II TUR : FC CFR-1907 Cluj-Napoca 1-3 ANORTHOSIS Famagusta FC (CYP)
+TURUL II RETUR : ANORTHOSIS Famagusta FC (CYP) 0-0 FC CFR-1907 Cluj-Napoca
+Scor general 3-1 ANORTHOSIS Famagusta (CYP) !
+Etapa 1 TUR : CS Otopeni 0-4 FC CFR-1907 Cluj-Napoca
+Etapa 18 RETUR : FC CFR-1907 Cluj-NAPOCA 1-0 CS Otopeni
+Etapa 2 TUR : FC CFR-1907 Cluj-Napoca 2-0 FC GLORIA Buzau
+Etapa 19 RETUR : FC GLORIA Buzau 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 3 TUR : FC RAPID Bucuresti 1-0 FC CFR-1907 Cluj-Napoca
+Etapa 20 RETUR : FC CFR-1907 Cluj-Napoca 0-0 FC RAPID Bucuresti
+Etapa 4 TUR : FC CFR-1907 Cluj-Napoca 1-1 FC UNIVERSITATEA Craiova
+Etapa 21 RETUR : FC UNIVERSITATEA Craiova 4-1 FC CFR-1907 Cluj-Napoca
+Etapa 5 TUR : FC Vaslui 2-1 FC CFR-1907 Cluj-Napoca
+Etapa 22 RETUR : FC CFR-1907 Cluj-Napoca 3-0 FC Vaslui
+Etapa 6 TUR : FC CFR-1907 Cluj-Napoca 0-0 FC POLITEHNICA Iasi
+Etapa 23 RETUR : FC POLITEHNICA Iasi 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 7 TUR : ACF GLORIA 1922 Bistrita 1-2 FC CFR-1907 Cluj-Napoca
+Etapa 24 RETUR : FC CFR-1907 Cluj-Napoca 2-2 ACF GLORIA 1922 Bistrita
+Etapa 8 TUR : FC CFR-1907 Cluj-Napoca 3-0 FC FARUL Constanta
+Etapa 25 RETUR : FC FARUL Constanta 0-1 FC CFR-1907 Cluj-Napoca
+Etapa 9 TUR : FC CFR-1907 Cluj-Napoca 1-1 FC STEAUA Bucuresti
+Etapa 26 RETUR : FC STEAUA Bucuresti 1-1 FC CFR-1907 Cluj-Napoca
+Etapa 10 TUR : FC OTELUL Galati 1-1 FC CFR-1907 Cluj-Napoca
+Etapa 27 RETUR : FC CFR-1907 Cluj-Napoca 1-1 FC OTELUL Galati
+Etapa 11 TUR : FC CFR-1907 Cluj-Napoca 1-0 FC DINAMO 1948 Bucuresti
+Etapa 28 RETUR : FC DINAMO 1948 Bucuresti 1-0 FC CFR-1907 Cluj-Napoca
+Etapa 12 TUR : FC Timisoara 2-1 FC CFR-1907 Cluj-Napoca
+Etapa 29 RETUR : FC CFR-1907 Cluj-Napoca 2-0 FC Timisoara
+Etapa 13 TUR : FC CFR-1907 Cluj-Napoca 1-0 FC UNIREA Urziceni
+Etapa 30 RETUR : FC UNIREA Urziceni 1-1 FC CFR-1907 Cluj-Napoca
+Etapa 14 TUR : FC Brasov 1-1 FC CFR-1907 Cluj-Napoca
+Etapa 31 RETUR : FC CFR-1907 Cluj-Napoca 2-0 FC Brasov
+Etapa 15 TUR : FC CFR-1907 Cluj-Napoca 2-0 FC ARGES Pitesti
+Etapa 32 RETUR : FC ARGES Pitesti 0-2 FC CFR-1907 Cluj-Napoca
+Etapa 16 TUR : CS PANDURII LIGNITUL Targu Jiu 2-1 FC CFR-1907 Cluj-Napoca
+Etapa 33 RETUR : FC CFR-1907 Cluj-Napoca 1-1 CS PANDURII LIGNITUL Targu Jiu
+Etapa 17 TUR : FC CFR-1907 Cluj-Napoca 2-1 CS GAZ METAN Medias
+Etapa 34 RETUR : CS GAZ METAN Medias 2-0 FC CFR-1907 Cluj-Napoca
