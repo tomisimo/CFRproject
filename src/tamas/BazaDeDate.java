@@ -232,7 +232,7 @@ public class BazaDeDate {
             }
             citire.close();
         } catch (Exception ex) {
-            return;
+            return; IL VOI EDITA AICI IN LOCUL ACESTA 
         }*/
 }
 
