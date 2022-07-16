@@ -6,7 +6,7 @@ public class BazaDeDate {
     public static void main(String[] args) {
         try {
             BufferedWriter fisier = new BufferedWriter(
-                    new FileWriter("C:\\Users\\simo\\Desktop\\CFRPROIECTCODE\\BazaDateRezultateCFR.txt"));
+                    new FileWriter("C:\\Users\\simo\\Desktop\\cfr\\CFRproject\\BazaDateRezultateCFR.txt"));
             fisier.write("Etapa 1 TUR : FC CFR-ECOMAX Cluj-Napoca 2-1 FCU POLITEHNICA Timisoara\n" +
                     "Etapa 16 RETUR : FCU POLITEHNICA Timisoara 3-0 FC CFR-ECOMAX Cluj-Napoca\n" +
                     "Etapa 2 TUR : ACF GLORIA 1922 Bistrita 2-0 FC CFR-ECOMAX Cluj-Napoca\n" +
@@ -232,7 +232,7 @@ public class BazaDeDate {
             }
             citire.close();
         } catch (Exception ex) {
-            return; IL VOI EDITA AICI IN LOCUL ACESTA 
+            return;
         }*/
 }
 
