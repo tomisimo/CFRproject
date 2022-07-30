@@ -19,6 +19,17 @@ public class Main {
         String CompetitiiEditia2009_2010[] = {"LIGA I 2009-2010", "CUPA ROMANIEI 2009-2010", "SUPERCUPA ROMANIEI 2010", "UEFA EUROPA LEAGUE 2009-2010"};
         String CompetitiiEditia2010_2011[] = {"LIGA I 2010-2011", "CUPA ROMANIEI 2010-2011", "UEFA CHAMPIONS LEAGUE 2010-2011"};
         String CompetitiiEditia2011_2012[] = {"LIGA I 2011-2012", "CUPA ROMANIEI 2011-2012", "SUPERCUPA ROMANIEI 2012"};
+        String CompetitiiEditia2012_2013[] = {"LIGA I 2012-2013", "CUPA ROMANIEI 2012-2013", "UEFA CHAMPIONS LEAGUE 2012-2013", "UEFA EUROPA LEAGUE 2012-2013"};
+        String CompetitiiEditia2013_2014[] = {"LIGA I 2013-2014", "CUPA ROMANIEI 2013-2014"};
+        String CompetitiiEditia2014_2015[] = {"LIGA I 2014-2015", "CUPA ROMANIEI 2014-2015", "CUPA LIGII ROMANIEI 2014-2015", "UEFA EUROPA LEAGUE 2014-2015"};
+        String CompetitiiEditia2015_2016[] = {"LIGA I 2015-2016", "LIGA I PLAY-OUT 2015-2016", "CUPA ROMANIEI 2015-2016", "CUPA LIGII ROMANIEI 2015-2016", "SUPERCUPA ROMANIEI 2016"};
+        String CompetitiiEditia2016_2017[] = {"LIGA I 2016-2017", "LIGA I PLAY-OFF 2016-2017", "CUPA ROMANIEI 2016-2017", "CUPA LIGII ROMANIEI 2016-2017"};
+        String CompetitiiEditia2017_2018[] = {"LIGA I 2017-2018", "LIGA I PLAY-OFF 2017-2018", "CUPA ROMANIEI 2017-2018", "SUPERCUPA ROMANIEI 2018"};
+        String CompetitiiEditia2018_2019[] = {"LIGA I 2018-2019", "LIGA I PLAY-OFF 2018-2019", "CUPA ROMANIEI 2018-2019", "SUPERCUPA ROMANIEI 2019", "UEFA CHAMPIONS LEAGUE 2018-2019", "UEFA EUROPA LEAGUE 2018-2019"};
+        String CompetitiiEditia2019_2020[] = {"LIGA I 2019-2020", "LIGA I PLAY-OFF 2019-2020", "CUPA ROMANIEI 2019-2020", "SUPERCUPA ROMANIEI 2020", "UEFA CHAMPIONS LEAGUE 2019-2020", "UEFA EUROPA LEAGUE 2019-2020"};
+        String CompetitiiEditia2020_2021[] = {"LIGA I 2020-2021", "LIGA I PLAY-OFF 2020-2021", "CUPA ROMANIEI 2020-2021", "SUPERCUPA ROMANIEI 2021", "UEFA CHAMPIONS LEAGUE 2020-2021", "UEFA EUROPA LEAGUE 2020-2021"};
+        String CompetitiiEditia2021_2022[] = {"LIGA I 2021-2022", "LIGA I PLAY-OFF 2021-2022", "CUPA ROMANIEI 2021-2022", "SUPERCUPA ROMANIEI 2022", "UEFA CHAMPIONS LEAGUE 2021-2022", "UEFA EUROPA LEAGUE 2021-2022", "UEFA EUROPA CONFERENCE LEAGUE 2021-2022"};
+        String CompetitiiEditia2022_2023[] = {"LIGA I 2022-2023", "LIGA I PLAY-OFF 2022-2023", "CUPA ROMANIEI 2022-2023", "UEFA CHAMPIONS LEAGUE 2022-2023", "UEFA EUROPA CONFERENCE LEAGUE 2022-2023"};
 
         String EchipeDiviziaA2004_2005[] = {"POLITEHNICA Timisoara DA04-05", "GLORIA Bistrita DA04-05", "RAPID Bucuresti DA04-05",
                 "APULLUM Alba Iulia DA04-05", "DINAMO Bucuresti DA04-05", "UNIVERSITATEA Craiova DA04-05", "ARGES Pitesti DA04-05", "FARUL Constanta DA04-05",
@@ -82,6 +93,41 @@ public class Main {
         String EchipeLigaI2022_2023[] = {"FC RAPID 1923 Bucuresti LI22-23", "FC UNIVERSITATEA Craiova 1948 LI22-23", "CS Mioveni LI22-23", "AFC CHINDIA Tirgoviste LI22-23", "FC Botosani LI22-23", "AFC HERMANNSTADT LI22-23",
                 "FCV FARUL Constanta LI22-23", "FC Voluntari LI22-23", "FC FCSB Bucuresti LI22-23", "CS UNIVERSITATEA Craiova 1948 LI22-23", "ACS CAMPIONII FC ARGES Pitesti LI22-23", "FC PETROLUL Ploiesti LI22-23", "FC UTA Arad LI22-23",
                 "ACS SEPSI OSK Sfantu Gheorghe LI22-23", "FC UNIVERSITATEA Cluj LI22-23"};
+        String EchipeLigaI2022_2023Play_Off[] = {};
+
+        String EchipeCupaRomaniei2004_2005[] = {"PANDURII LIGNITUL Targu Jiu CR04-05", "FARUL Constanta CR04-05"};
+        String EchipeCupaRomaniei2005_2006[] = {"UNIVERSITATEA Craiova CR05-06"};
+        String EchipeCupaRomaniei2006_2007[] = {"SOMESUL Satu Mare CR06-07", "POLITEHNICA Timisoara CR06-07"};
+        String EchipeCupaRomaniei2007_2008[] = {"FC Sacele CR07-08", "CS JIUL Petrosani CR07-08", "FC Brasov CR07-08", "CS DACIA Mioveni CR07-08", "FC UNIREA Urziceni CR07-08"};
+        String EchipeCupaRomaniei2008_2009[] = {"CFM UNIVERSITATEA Cluj CR08-09", "FC SPORTUL STUDENTESC Bucuresti CR08-09", "CS PANDURII LIGNITUL Targu Jiu CR08-09", "FC Vaslui CR08-09", "FC Timisoara CR08-09"};
+        String EchipeCupaRomaniei2009_2010[] = {"FCM DUNAREA Galati CR09-10", "CS GAZ METAN CFR Craiova CR09-10", "FC UNIVERSITATEA Craiova CR09-10", "FC DINAMO 1948 Bucuresti CR09-10", "FC Vaslui CR09-10"};
+        String EchipeCupaRomaniei2010_2011[] = {"CS ACU Arad CR10-11", "FCM Targu Mures CR10-11", "ACF GLORIA 1922 Bistrita CR10-11"};
+        String EchipeCupaRomaniei2011_2012[] = {"FC ASTRA Ploiesti CR11-12"};
+        String EchipeCupaRomaniei2012_2013[] = {"ACS Berceni CR12-13", "FC Botosani CR12-13", "FC DINAMO 1948 Bucuresti CR12-13", "AFC ASTRA Giurgiu CR12-13", "FC PETROLUL Ploiesti CR12-13"};
+        String EchipeCupaRomaniei2013_2014[] = {"FC Brasov CR13-14"};
+        String EchipeCupaRomaniei2014_2015[] = {"CS VIITORUL Axintele CR14-15", "FC RAPID Bucuresti CR14-15", "CS Mioveni CR14-15", "FC UNIVERSITATEA Cluj CR14-15"};
+        String EchipeCupaRomaniei2015_2016[] = {"CS Balotesti CR15-16", "FC VIITORUL II Constanta CR15-16", "CS MUNICIPAL STUDENTESC Iasi CR15-16", "ASA Targu Mures CR15-16", "FC DINAMO 1948 Bucuresti CR15-16"};
+        String EchipeCupaRomaniei2016_2017[] = {"CSM Ramnicu Valcea CR16-17", "CS MUNICIPAL POLITEHNICA Iasi CR16-17", "ACS POLI Timisoara CR16-17"};
+        String EchipeCupaRomaniei2017_2018[] = {"FC Botosani CR17-18"};
+        String EchipeCupaRomaniei2018_2019[] = {"AFC CHINDIA Tirgoviste CR18-19", "CS GAZ METAN Medias CR18-19", "ACS SEPSI OSK Sfantu Gheorghe CR18-19", "AFC ASTRA Giurgiu CR18-19"};
+        String EchipeCupaRomaniei2019_2020[] = {"FC Botosani CR19-20"};
+        String EchipeCupaRomaniei2020_2021[] = {"FC POLITEHNICA Iasi CR20-21"};
+        String EchipeCupaRomaniei2021_2022[] = {"CS UNIVERSITATEA Craiova 1948 CR21-22"};
+        String EchipeCupaRomaniei2022_2023[] = {};
+
+        String EchipeCupaLigiiRomaniei2014_2015[] = {"MUNICIPAL STUDENTESC Iasi CLR14-15"};
+        String EchipeCupaLigiiRomaniei2015_2016[] = {"MUNICIPAL STUDENTESC Iasi CLR15-16", "FC DINAMO 1948 Bucuresti CLR15-16"};
+        String EchipeCupaLigiiRomaniei2016_2017[] = {"CS UNIVERSITATEA Craiova 1948 CLR16-17", "ASA Targu Mures CLR16-17"};
+
+        String EchipeSupercupaRomaniei2009[] = {"FC UNIREA Urziceni SCR09"};
+        String EchipeSupercupaRomaniei2010[] = {"FC UNIREA Urziceni SCR10"};
+        String EchipeSupercupaRomaniei2012[] = {"FC DINAMO 1948 Bucuresti SCR12"};
+        String EchipeSupercupaRomaniei2016[] = {"AFC ASTRA Giurgiu SCR16"};
+        String EchipeSupercupaRomaniei2018[] = {"CS UNIVERSITATEA Craiova 1948 SCR18"};
+        String EchipeSupercupaRomaniei2019[] = {"FC VIITORUL Constanta SCR19"};
+        String EchipeSupercupaRomaniei2020[] = {"FC FCSB Bucuresti SCR20"};
+        String EchipeSupercupaRomaniei2021[] = {"CS UNIVERSITATEA Craiova 1948 SCR21"};
+        String EchipeSupercupaRomaniei2022[] = {"ACS SEPSI OSK Sfantu Gheorghe SCR22"};
 
         String EchipeUefaIntertotoCup2005[] = {"VETRA Vilnius IC05", "ATHLETIC Bilbao IC05", "SAINT-ETIENNE IC05",
                 "ZALGIRIS Vilnius IC05", "RC Lens IC05"};
@@ -102,11 +148,7 @@ public class Main {
         String EchipeUefaEuropaLeague2021_2022[] = {"FK CRVENA ZVEZDA UEL21-22"};
         String EchipeUefaEuropaConferenceLeague2021_2022[] = {"AZ Alkmaar Zaanstreek UECL21-22", "FK Jablonec UECL21-22", "Randers FC UECL21-22"};
         String EchipeUefaChampionsLeague2022_2023[] = {"FC PYUNIK Yerevan UCL22-23"};
-        String EchipeUefaEuropaConferenceLeague2022_2023[] = {"INTER CLUB d'Escaldes UECL22-23"};
-
-        String EchipeCupaRomaniei2004_2005[] = {"PANDURII LIGNITUL Targu Jiu CR04-05", "FARUL Constanta CR04-05"};
-        String EchipeCupaRomaniei2005_2006[] = {"UNIVERSITATEA Craiova CR05-06"};
-        String EchipeCupaRomaniei2006_2007[] = {"SOMESUL Satu Mare CR06-07", "POLITEHNICA Timisoara CR06-07"};
+        String EchipeUefaEuropaConferenceLeague2022_2023[] = {"INTER CLUB d'Escaldes UECL22-23", "FK SHAKHTSYOR Salihorsk UECL22-23"};
 
         for (int i = 0; i < EditiileDeFotbal.length; i++) {
             System.out.println(EditiileDeFotbal[i]);
@@ -158,6 +200,64 @@ public class Main {
                 System.out.println(CompetitiiEditia2011_2012[i]);
             }
         }
+        if (editia.equals(EditiileDeFotbal[8])) {
+            for (int i = 0; i < CompetitiiEditia2012_2013.length; i++) {
+                System.out.println(CompetitiiEditia2012_2013[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[9])) {
+            for (int i = 0; i < CompetitiiEditia2013_2014.length; i++) {
+                System.out.println(CompetitiiEditia2013_2014[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[10])) {
+            for (int i = 0; i < CompetitiiEditia2014_2015.length; i++) {
+                System.out.println(CompetitiiEditia2014_2015[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[11])) {
+            for (int i = 0; i < CompetitiiEditia2015_2016.length; i++) {
+                System.out.println(CompetitiiEditia2015_2016[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[12])) {
+            for (int i = 0; i < CompetitiiEditia2016_2017.length; i++) {
+                System.out.println(CompetitiiEditia2016_2017[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[13])) {
+            for (int i = 0; i < CompetitiiEditia2017_2018.length; i++) {
+                System.out.println(CompetitiiEditia2017_2018[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[14])) {
+            for (int i = 0; i < CompetitiiEditia2018_2019.length; i++) {
+                System.out.println(CompetitiiEditia2018_2019[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[15])) {
+            for (int i = 0; i < CompetitiiEditia2019_2020.length; i++) {
+                System.out.println(CompetitiiEditia2019_2020[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[16])) {
+            for (int i = 0; i < CompetitiiEditia2020_2021.length; i++) {
+                System.out.println(CompetitiiEditia2020_2021[i]);
+            }
+        }
+        if (editia.equals(EditiileDeFotbal[17])) {
+            for (int i = 0; i < CompetitiiEditia2021_2022.length; i++) {
+                System.out.println(CompetitiiEditia2021_2022[i]);
+            }
+        }
+
+        if (editia.equals(EditiileDeFotbal[18])) {
+            for (int i = 0; i < CompetitiiEditia2022_2023.length; i++) {
+                System.out.println(CompetitiiEditia2022_2023[i]);
+            }
+        }
+
+
 
 
 
@@ -184,7 +284,6 @@ public class Main {
             }
         }
 
-
         if (competitia.equals(CompetitiiEditia2005_2006[0])) {
             for (int i = 0; i < EchipeDiviziaA2005_2006.length; i++) {
                 System.out.println(EchipeDiviziaA2005_2006[i]);
@@ -207,6 +306,365 @@ public class Main {
                 System.out.println(EchipeCupaRomaniei2006_2007[i]);
             }
         }
+        if (competitia.equals(CompetitiiEditia2007_2008[0])) {
+            for (int i = 0; i < EchipeLigaI2007_2008.length; i++) {
+                System.out.println(EchipeLigaI2007_2008[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2007_2008[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2007_2008.length; i++) {
+                System.out.println(EchipeCupaRomaniei2007_2008[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2007_2008[2])) {
+            for (int i = 0; i < EchipeUefaCup2007_2008.length; i++) {
+                System.out.println(EchipeUefaCup2007_2008[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2008_2009[0])) {
+            for (int i = 0; i < EchipeLigaI2008_2009.length; i++) {
+                System.out.println(EchipeLigaI2008_2009[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2008_2009[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2008_2009.length; i++) {
+                System.out.println(EchipeCupaRomaniei2008_2009[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2008_2009[2])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2009.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2009[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2008_2009[3])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2008_2009.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2008_2009[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2009_2010[0])) {
+            for (int i = 0; i < EchipeLigaI2009_2010.length; i++) {
+                System.out.println(EchipeLigaI2009_2010[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2009_2010[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2009_2010.length; i++) {
+                System.out.println(EchipeCupaRomaniei2009_2010[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2009_2010[2])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2010.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2010[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2009_2010[3])) {
+            for (int i = 0; i < EchipeUefaEuropaLeague2009_2010.length; i++) {
+                System.out.println(EchipeUefaEuropaLeague2009_2010[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2010_2011[0])) {
+            for (int i = 0; i < EchipeLigaI2010_2011.length; i++) {
+                System.out.println(EchipeLigaI2010_2011[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2010_2011[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2010_2011.length; i++) {
+                System.out.println(EchipeCupaRomaniei2010_2011[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2010_2011[2])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2010_2011.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2010_2011[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2011_2012[0])) {
+            for (int i = 0; i < EchipeLigaI2011_2012.length; i++) {
+                System.out.println(EchipeLigaI2011_2012[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2011_2012[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2011_2012.length; i++) {
+                System.out.println(EchipeCupaRomaniei2011_2012[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2011_2012[2])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2012.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2012[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2012_2013[0])) {
+            for (int i = 0; i < EchipeLigaI2012_2013.length; i++) {
+                System.out.println(EchipeLigaI2012_2013[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2012_2013[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2012_2013.length; i++) {
+                System.out.println(EchipeCupaRomaniei2012_2013[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2012_2013[2])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2012_2013.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2012_2013[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2012_2013[3])) {
+            for (int i = 0; i < EchipeUefaEuropaLeague2012_2013.length; i++) {
+                System.out.println(EchipeUefaEuropaLeague2012_2013[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2013_2014[0])) {
+            for (int i = 0; i < EchipeLigaI2013_2014.length; i++) {
+                System.out.println(EchipeLigaI2013_2014[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2013_2014[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2013_2014.length; i++) {
+                System.out.println(EchipeCupaRomaniei2013_2014[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2014_2015[0])) {
+            for (int i = 0; i < EchipeLigaI2014_2015.length; i++) {
+                System.out.println(EchipeLigaI2014_2015[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2014_2015[1])) {
+            for (int i = 0; i < EchipeCupaRomaniei2014_2015.length; i++) {
+                System.out.println(EchipeCupaRomaniei2014_2015[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2014_2015[2])) {
+            for (int i = 0; i < EchipeCupaLigiiRomaniei2014_2015.length; i++) {
+                System.out.println(EchipeCupaLigiiRomaniei2014_2015[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2014_2015[3])) {
+            for (int i = 0; i < EchipeUefaEuropaLeague2014_2015.length; i++) {
+                System.out.println(EchipeUefaEuropaLeague2014_2015[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2015_2016[0])) {
+            for (int i = 0; i < EchipeLigaI2015_2016.length; i++) {
+                System.out.println(EchipeLigaI2015_2016[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2015_2016[1])) {
+            for (int i = 0; i < EchipeLigaI2015_2016Play_Out.length; i++) {
+                System.out.println(EchipeLigaI2015_2016Play_Out[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2015_2016[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2015_2016.length; i++) {
+                System.out.println(EchipeCupaRomaniei2015_2016[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2015_2016[3])) {
+            for (int i = 0; i < EchipeCupaLigiiRomaniei2015_2016.length; i++) {
+                System.out.println(EchipeCupaLigiiRomaniei2015_2016[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2015_2016[4])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2016.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2016[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2016_2017[0])) {
+            for (int i = 0; i < EchipeLigaI2016_2017.length; i++) {
+                System.out.println(EchipeLigaI2016_2017[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2016_2017[1])) {
+            for (int i = 0; i < EchipeLigaI2016_2017Play_Off.length; i++) {
+                System.out.println(EchipeLigaI2016_2017Play_Off[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2016_2017[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2016_2017.length; i++) {
+                System.out.println(EchipeCupaRomaniei2016_2017[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2016_2017[3])) {
+            for (int i = 0; i < EchipeCupaLigiiRomaniei2016_2017.length; i++) {
+                System.out.println(EchipeCupaLigiiRomaniei2016_2017[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2017_2018[0])) {
+            for (int i = 0; i < EchipeLigaI2017_2018.length; i++) {
+                System.out.println(EchipeLigaI2017_2018[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2017_2018[1])) {
+            for (int i = 0; i < EchipeLigaI2017_2018Play_Off.length; i++) {
+                System.out.println(EchipeLigaI2017_2018Play_Off[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2017_2018[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2017_2018.length; i++) {
+                System.out.println(EchipeCupaRomaniei2017_2018[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2017_2018[3])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2018.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2018[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2018_2019[0])) {
+            for (int i = 0; i < EchipeLigaI2018_2019.length; i++) {
+                System.out.println(EchipeLigaI2018_2019[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2018_2019[1])) {
+            for (int i = 0; i < EchipeLigaI2018_2019Play_Off.length; i++) {
+                System.out.println(EchipeLigaI2018_2019Play_Off[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2018_2019[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2018_2019.length; i++) {
+                System.out.println(EchipeCupaRomaniei2018_2019[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2018_2019[3])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2019.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2019[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2018_2019[4])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2018_2019.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2018_2019[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2018_2019[5])) {
+            for (int i = 0; i < EchipeUefaEuropaLeague2018_2019.length; i++) {
+                System.out.println(EchipeUefaEuropaLeague2018_2019[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2019_2020[0])) {
+            for (int i = 0; i < EchipeLigaI2019_2020.length; i++) {
+                System.out.println(EchipeLigaI2019_2020[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2019_2020[1])) {
+            for (int i = 0; i < EchipeLigaI2019_2020Play_Off.length; i++) {
+                System.out.println(EchipeLigaI2019_2020Play_Off[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2019_2020[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2019_2020.length; i++) {
+                System.out.println(EchipeCupaRomaniei2019_2020[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2019_2020[3])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2020.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2020[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2019_2020[4])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2019_2020.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2019_2020[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2019_2020[5])) {
+            for (int i = 0; i < EchipeUefaEuropaLeague2019_2020.length; i++) {
+                System.out.println(EchipeUefaEuropaLeague2019_2020[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2020_2021[0])) {
+            for (int i = 0; i < EchipeLigaI2020_2021.length; i++) {
+                System.out.println(EchipeLigaI2020_2021[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2020_2021[1])) {
+            for (int i = 0; i < EchipeLigaI2020_2021Play_Off.length; i++) {
+                System.out.println(EchipeLigaI2020_2021Play_Off[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2020_2021[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2020_2021.length; i++) {
+                System.out.println(EchipeCupaRomaniei2020_2021[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2020_2021[3])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2021.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2021[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2020_2021[4])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2020_2021.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2020_2021[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2020_2021[5])) {
+            for (int i = 0; i < EchipeUefaEuropaLeague2020_2021.length; i++) {
+                System.out.println(EchipeUefaEuropaLeague2020_2021[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2021_2022[0])) {
+            for (int i = 0; i < EchipeLigaI2021_2022.length; i++) {
+                System.out.println(EchipeLigaI2021_2022[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2021_2022[1])) {
+            for (int i = 0; i < EchipeLigaI2021_2022Play_Off.length; i++) {
+                System.out.println(EchipeLigaI2021_2022Play_Off[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2021_2022[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2021_2022.length; i++) {
+                System.out.println(EchipeCupaRomaniei2021_2022[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2021_2022[3])) {
+            for (int i = 0; i < EchipeSupercupaRomaniei2022.length; i++) {
+                System.out.println(EchipeSupercupaRomaniei2022[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2021_2022[4])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2021_2022.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2021_2022[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2021_2022[5])) {
+            for (int i = 0; i < EchipeUefaEuropaLeague2021_2022.length; i++) {
+                System.out.println(EchipeUefaEuropaLeague2021_2022[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2021_2022[6])) {
+            for (int i = 0; i < EchipeUefaEuropaConferenceLeague2021_2022.length; i++) {
+                System.out.println(EchipeUefaEuropaConferenceLeague2021_2022[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2022_2023[0])) {
+            for (int i = 0; i < EchipeLigaI2022_2023.length; i++) {
+                System.out.println(EchipeLigaI2022_2023[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2022_2023[1])) {
+            for (int i = 0; i < EchipeLigaI2022_2023Play_Off.length; i++) {
+                System.out.println(EchipeLigaI2022_2023Play_Off[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2022_2023[2])) {
+            for (int i = 0; i < EchipeCupaRomaniei2022_2023.length; i++) {
+                System.out.println(EchipeCupaRomaniei2022_2023[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2022_2023[3])) {
+            for (int i = 0; i < EchipeUefaChampionsLeague2022_2023.length; i++) {
+                System.out.println(EchipeUefaChampionsLeague2022_2023[i]);
+            }
+        }
+        if (competitia.equals(CompetitiiEditia2022_2023[4])) {
+            for (int i = 0; i < EchipeUefaEuropaConferenceLeague2022_2023.length; i++) {
+                System.out.println(EchipeUefaEuropaConferenceLeague2022_2023[i]);
+            }
+        }
+
+
+
+
+
+
+
+
+
 
 
 
